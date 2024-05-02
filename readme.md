@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🔭 Proficient in Deep Learning, Natural Language Processing.<br>- 📚 Currently learning Blockchain(Cosmos SDK, Golang, Rust).<br>- ⚡ In my free time I enjoy consulting other's ChatBot Development.</p>
+<p align="left">- 🔭 Proficient in Deep Learning, Natural Language Processing.<br>- 📚 Currently learning Blockchain(Cosmos SDK, Golang, Rust).<br>- ⚡ In my free time, I help other's ChatBot Development.</p>
 
 ###
 
