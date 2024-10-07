@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🔭 Proficient in Deep Learning, Natural Language Processing.<br>  📚 Rich Experience in Python Backend Developments<br>- 📚 Currently learning Blockchain.<br>- ⚡ In my free time, I help other's ChatBot Development.</p>
+<p align="left">- 🔭 Proficient in Deep Learning, Natural Language Processing.<br>- 📚 Rich Experience in Python Backend Developments<br>- 📚 Currently learning Blockchain.<br>- ⚡ In my free time, I help other's ChatBot Development.</p>
 
 ###
 
